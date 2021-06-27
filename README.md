@@ -20,5 +20,5 @@ https://www.sustainable-ai.eu/
 Munk (2019) in his exploration of the Nordic food movement on the web used a hyperlink network as part of a qualitative exploration. These thoughts can be seen in considerations of Visual Network Analysis as a qualitative method (Decuypere, 2020).
 
 References:
-Decuypere, M. (2020). Visual network analysis: a qualitative method for researching sociomaterial practice. Qualitative Research, 20(1), 73-90 (15 pages)
-Munk, A. K. (2019). Four styles of quali-quantitative analysis: Making sense of the new Nordic food movement on the web. Nordicom Review, 40(s1), 159-176.
+- Decuypere, M. (2020). Visual network analysis: a qualitative method for researching sociomaterial practice. Qualitative Research, 20(1), 73-90 (15 pages)
+- Munk, A. K. (2019). Four styles of quali-quantitative analysis: Making sense of the new Nordic food movement on the web. Nordicom Review, 40(s1), 159-176.
