@@ -15,7 +15,7 @@ After the conference a discussion was held with Federica Lucivero (University of
 
 *This section is updated regularly and may differ from day to day*
 
-- There are limitations when infering based on the network might show associations, but one can only judge the public communication of the page, not too much beyond this scope.
+- There are limitations when infering based on a hyperlink network of associations, and these need to be explored.
 - The different actors may be different even within one intended unit of analysis. For example AI institutes, labs, and groups differ both within the context of one country as well as across regions.
 
 ### Visual network analysis
