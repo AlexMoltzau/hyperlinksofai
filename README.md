@@ -17,6 +17,7 @@ After the conference a discussion was held with Federica Lucivero (University of
 
 - There are limitations when infering based on a hyperlink network of associations, and these need to be explored.
 - The different actors may be different even within one intended unit of analysis. For example AI institutes, labs, and groups differ both within the context of one country as well as across regions.
+- One aspect that could be interesting is the changes in the network over time. Another possibility is to see how the use of different words change over time, such as the use of 'sustainability', 'ethics', 'environmental', etc.
 
 ### Visual network analysis
 Munk (2019) in his exploration of the Nordic food movement on the web used a hyperlink network as part of a qualitative exploration. These thoughts can be seen in considerations of Visual Network Analysis as a qualitative method (Decuypere, 2020).
