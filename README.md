@@ -11,6 +11,10 @@ https://www.sustainable-ai.eu/
 
 After the conference a discussion was held with Federica Lucivero (University of Oxford, Ethox) and Gabrielle Samuel (King's College London) who had been working together on AI and environmental sustainability. Nataliya Tkachenko (University of Oxford) also joined this meeting, and it was agreed to proceed to build a shared dataset of hyperlinks on AI together.
 
+### ai_academic_entity.csv
+
+This file was first posted on the 1st of July 2021 with a list of 469 hyperlinks and associated AI academic entities. These are a mix of AI-related institutes, labs, and groups. This is currently a rough draft. It has three columns: (1) ai_academic_entity, (2) country, and (3) link.
+
 ### General thoughts
 
 *This section is updated regularly and may differ from day to day*
