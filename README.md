@@ -13,7 +13,7 @@ After the conference a discussion was held with Federica Lucivero (University of
 
 ### ai_academic_entity.csv
 
-This file was first posted on the 1st of July 2021 with a list of 469 hyperlinks and associated AI academic entities. These are a mix of AI-related institutes, labs, and groups. This is currently a rough draft. It has three columns: (1) ai_academic_entity, (2) country, and (3) link.
+This file was first posted on the 1st of July 2021 with a list of 469 hyperlinks and associated AI academic entities. These are a mix of AI-related institutes, labs, and groups. This .csv is currently a rough draft with three columns: (1) ai_academic_entity, (2) country, and (3) link.
 
 ### General thoughts
 
