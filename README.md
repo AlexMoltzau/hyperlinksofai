@@ -13,7 +13,7 @@ After the conference a discussion was held with Federica Lucivero (University of
 
 ### ai_academic_entity.csv
 
-This file was first posted on the 1st of July 2021 with a list of 469 hyperlinks and associated AI academic entities. These are a mix of AI-related institutes, labs, and groups. This .csv is currently a rough draft with three columns: (1) ai_academic_entity, (2) country, and (3) link.
+This file was first posted on the 1st of July 2021 with a list of 469 hyperlinks and associated AI academic entities. These are a mix of AI-related institutes, labs, and groups. This .csv is currently a rough draft with three columns: (1) ai_academic_entity, (2) country, and (3) link. The current dataset is a draft and has not been cleaned for possible duplicates.
 
 ### General thoughts
 
@@ -22,6 +22,7 @@ This file was first posted on the 1st of July 2021 with a list of 469 hyperlinks
 - There are limitations when infering based on a hyperlink network of associations, and these need to be explored.
 - The different actors may be different even within one intended unit of analysis. For example AI institutes, labs, and groups differ both within the context of one country as well as across regions.
 - One aspect that could be interesting is the changes in the network over time. Another possibility is to see how the use of different words change over time, such as the use of 'sustainability', 'ethics', 'environmental', etc.
+- Mapping AI-related academic entities in different regions may be challenging due to differences in language, or be biased towards websites where English is used primarily.
 
 ### Visual network analysis
 Munk (2019) in his exploration of the Nordic food movement on the web used a hyperlink network as part of a qualitative exploration. These thoughts can be seen in considerations of Visual Network Analysis as a qualitative method (Decuypere, 2020).
