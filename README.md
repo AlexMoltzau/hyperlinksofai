@@ -23,6 +23,7 @@ This file was first posted on the 1st of July 2021 with a list of 469 hyperlinks
 - The different actors may be different even within one intended unit of analysis. For example AI institutes, labs, and groups differ both within the context of one country as well as across regions.
 - One aspect that could be interesting is the changes in the network over time. Another possibility is to see how the use of different words change over time, such as the use of 'sustainability', 'ethics', 'environmental', etc.
 - Mapping AI-related academic entities in different regions may be challenging due to differences in language, or be biased towards websites where English is used primarily.
+- A large portion of the research community in the field of AI works within large private technology companies. As such it might be possible to build a complementary dataset of private AI research entities at Google, Facebook, Amazon, etc.
 
 ### Visual network analysis
 Munk (2019) in his exploration of the Nordic food movement on the web used a hyperlink network as part of a qualitative exploration. These thoughts can be seen in considerations of Visual Network Analysis as a qualitative method (Decuypere, 2020).
