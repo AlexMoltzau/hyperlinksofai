@@ -9,7 +9,7 @@ This effort was started as a research project by Alex Moltzau (Norwegian Artific
 An initial presentation of preliminary results was made at the Sustainable AI conference, hosted by Aimee van Wynsberghe at the University of Bonn on the 16th of June 2021:
 https://www.sustainable-ai.eu/
 
-After the conference a discussion was held with Federica Lucivero (University of Oxford, Ethox) and Gabrielle Samuel (King's College London) who had been working together on AI and environmental sustainability. Nataliya Tkachenko (University of Oxford) also joined this meeting, and it was agreed to proceed to build a shared dataset of hyperlinks on AI together.
+After the conference a discussion was held with Federica Lucivero (University of Oxford, Ethox) and Gabrielle Samuel (King's College London) who had been working together on AI and environmental sustainability. Nataliya Tkachenko (University of Oxford) also joined this meeting, and it was agreed to proceed to build a shared dataset of hyperlinks within the field of AI together.
 
 ### ai_academic_entity.csv
 
