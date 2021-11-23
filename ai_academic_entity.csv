@@ -1,6 +1,15 @@
 ai_academic_entity,country,link
-the Cloud Computing and Distributed Systems Laboratory,Australia,http://www.cloudbus.org/
+SKAILAB,Algeria,http://skailab.algeria-ai.com/
+The Applied Artificial Intelligence Laboratory (AAIL),Argentina,https://liaa.dc.uba.ar/
+Artificial Intelligence Research and Development Laboratory - LIDIA,Argentina,http://lidia.cs.uns.edu.ar/home/
+IALAB,Argentina,https://ialab.com.ar/
+DHARMA Artificial Intelligence Lab at UTN,Argentina,http://dharma.frm.utn.edu.ar/en
+Machine Intelligence Lab CETYS Universidad de San Andreas,Argentina,https://udesa.edu.ar/cetys/machine-intelligence-lab
+YerevaNN research lab,Armenia,https://yerevann.com/
+AiLab,Australia,https://www.ailab.com.au/
+Humanising Machine Intelligence Australian National University,Australia,https://hmi.anu.edu.au/
 School of Electrical and Electronic Engineering,Australia,https://ecms.adelaide.edu.au/electrical-electronic-engineering/
+The Cloud Computing and Distributed Systems Laboratory,Australia,http://www.cloudbus.org/
 Institute of Science and Technology,Austria,http://www.ist.ac.at
 "Center for Digital Safety & Security, AIT – Austrian Institute of Technology, Vienna",Austria,https://www.ait.ac.at/en/about-the-ait/center/center-for-digital-safety-security/
 "Control of Networked Systems Group, Universität Klagenfurt, Department of Smart System Technologies, Klagenfurt",Austria,https://www.aau.at/en/smart-systems-technologies/control-of-networked-systems/
@@ -224,6 +233,7 @@ SWENG_FM – Research Program in SW Engineering and Formal Methods,Italy,https:/
 "University of Campania “Luigi Vanvitelli”, Caserta",Italy,https://www.unicampania.it/
 "Dept. of Engineering – Laboratory of Artificial Intelligence, Aversa",Italy,https://www.ingegneria.unicampania.it/dipartimento/strutture-del-dipartimento/laboratori#laboratorio-di-ingegneria-del-software-ed-intelligenza-artificiale
 "Industrial, Environmental and Biometric Informatics Laboratory, University of Milan",Italy,https://iebil.di.unimi.it/
+K.D.I.S - Knowledge Discovery and Intelligent Systems,Jamaica,https://www.mona.uwi.edu/compsci/research/areas/kdis-knowledge-discovery-and-intelligent-systems
 "Robotics and machine perception laboratory, EDI- Elektronikas un datorzinatnu instituts, Riga",Latvia,https://www.edi.lv/en/labs/robotics-and-machine-perception-laboratory/
 "Faculty of Economics and Management, Vytautas Magnus University, Kaunas",Lithuania,http://evf.vdu.lt/en/
 "Institute of Computer Science, Vilnius University",Lithuania,https://mif.vu.lt/lt3/en/about/structure/institute-of-computer-science
@@ -454,17 +464,17 @@ Donald Bren School of Information & Computer Science,United States,https://www.i
 "Institute for Sustainability, Energy, and Environment (iSEE)",United States,https://sustainability.illinois.edu/
 Sapiro Lab,United States,http://sapirolab.pratt.duke.edu/
 Georgia Tech College of Computing,United States,https://www.cc.gatech.edu/
-Biometrics Research Group,USA,http://biometrics.cse.msu.edu/
-Data and Information Systems Research Laboratory,USA,https://dais.cs.illinois.edu/
-Berkeley Artificial Intelligence Research,USA,https://bair.berkeley.edu/index.html#header
-Haussler-Salama Lab,USA,https://hausslergenomics.ucsc.edu/
-Big Data and Social Computing Lab,USA,http://bdsc.lab.uic.edu/
-The Robotics Institute,USA,https://www.ri.cmu.edu/
-The Computational Neurobiology Laboratory,USA,https://cnl.salk.edu/
-Image Formation and Processing Group,USA,https://ifp-uiuc.github.io/
-NetSys,USA,https://netsys.cs.berkeley.edu/
-Stanford Artificial Intelligence Laboratory,USA,https://ai.stanford.edu/
-Digital Technology Center,USA,https://cse.umn.edu/dtc
-Department of Electrical and Computer Engineering,USA,https://ece.princeton.edu/people/h-vincent-poor
-"Center for Brain, Minds + Machines",USA,https://cbmm.mit.edu/
-MIT Connection Science,USA,http://connection.mit.edu/
+Biometrics Research Group,United States,http://biometrics.cse.msu.edu/
+Data and Information Systems Research Laboratory,United States,https://dais.cs.illinois.edu/
+Berkeley Artificial Intelligence Research,United States,https://bair.berkeley.edu/index.html#header
+Haussler-Salama Lab,United States,https://hausslergenomics.ucsc.edu/
+Big Data and Social Computing Lab,United States,http://bdsc.lab.uic.edu/
+The Robotics Institute,United States,https://www.ri.cmu.edu/
+The Computational Neurobiology Laboratory,United States,https://cnl.salk.edu/
+Image Formation and Processing Group,United States,https://ifp-uiuc.github.io/
+NetSys,United States,https://netsys.cs.berkeley.edu/
+Stanford Artificial Intelligence Laboratory,United States,https://ai.stanford.edu/
+Digital Technology Center,United States,https://cse.umn.edu/dtc
+Department of Electrical and Computer Engineering,United States,https://ece.princeton.edu/people/h-vincent-poor
+"Center for Brain, Minds + Machines",United States,https://cbmm.mit.edu/
+MIT Connection Science,United States,http://connection.mit.edu/
